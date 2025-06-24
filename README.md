@@ -35,8 +35,6 @@ This project used SQL to:
 - Calculate EV readiness metrics (EVs per station)
 - Normalize station counts per million population
 
-All queries can be found [here](./sql/ev_readiness_queries.sql)
-
 
 📷 Screenshots
 
