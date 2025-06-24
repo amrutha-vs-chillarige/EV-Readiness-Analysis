@@ -39,21 +39,21 @@ This project used SQL to:
 📷 Screenshots
 
 **Page 1: EV Sales by State**
-![EV Sales by State Bar chart](screenshots/Page_1_-_EV Sales by State.png)
+![EV Sales by State Bar chart](Page_1_-_EV Sales by State.png)
 
 **Page 2: Charging Stations Distribution**
-![Charging Stations Distribution Map](screenshots/Page_2_-_Charging Stations Distribution.png)
+![Charging Stations Distribution Map](Page_2_-_Charging Stations Distribution.png)
 
 **Page 3: EV Readiness Score**
-![EV Readiness Score Bar Chart](screenshots/Page_2_-_EV Readiness Score.png)
+![EV Readiness Score Bar Chart](Page_3_-_EV Readiness Score.png)
 
 **Page 4: Metrics and KPIs**
-![Metrics and KPIs](screenshots/Page_2_-_Metrics and KPIs.png)
+![Metrics and KPIs](Page_4_-_Metrics and KPIs.png)
 
 
 🚀 How to Run
 - Run `ev_pipeline.py` to clean and store data in MySQL
 - Open `ev_dashboard.pbix` in Power BI
 
-Author
+Author: 
 Amrutha Venkata Sai Chillarige – Electrical and Electronics Engineering, NIT Warangal
